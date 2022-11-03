@@ -16,9 +16,6 @@
   <a href="https://en.wikipedia.org/wiki/RTFM"><img src="https://img.shields.io/badge/seb-%3C3-ff69b4"></a>
 </p>
 
-<h5 align="center">
-  Sponsored by&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://storme.io" rel="nofollow"><img src="https://i.imgur.com/k8f4tuI.png" alt="Storme" height=35 valign="middle"></a>
-</h5>
 <br>
 
 <details open="open">
