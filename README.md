@@ -127,7 +127,3 @@ Not sure what you would want to contribute, but if you want, be my guest.
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Sheldon Rupp - [@0xF13U](https://twitter.com/0xF13U) - me *at* fieu.cc
